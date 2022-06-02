@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="657.0" prefWidth="1068.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.ListeVendeurController">
+   <children>
+      <TableView fx:id="table" layoutX="43.0" layoutY="105.0" prefHeight="420.0" prefWidth="974.0" stylesheets="@tableview.css">
+        <columns>
+          <TableColumn fx:id="Matricule" prefWidth="111.0" text="Matricule" />
+          <TableColumn fx:id="NomSalarié" minWidth="0.0" prefWidth="132.0" text="NomSalarié" />
+            <TableColumn fx:id="Emailfield" minWidth="0.0" prefWidth="153.0" text="Email " />
+            <TableColumn fx:id="SalaireTfield" minWidth="0.0" prefWidth="146.0" text="SalaireTotale" />
+            <TableColumn fx:id="CatFiled" minWidth="0.0" prefWidth="137.0" text="Categorie" />
+            <TableColumn fx:id="Recrutementfield" minWidth="0.0" prefWidth="167.0" text="Date Embauche" />
+            <TableColumn fx:id="nbrheurfield" minWidth="0.0" prefWidth="127.0" text="vente" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>
