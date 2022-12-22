@@ -2,11 +2,11 @@
 Employees Managment
 
 <p align="center">
-    <img src="screenshots/1.png" alt="Image" height="500" />
-    <img src="screenshots/2.png" alt="Image" height="500" />
-    <img src="screenshots/3.png" alt="Image" height="500" />
-    <img src="screenshots/4.png" alt="Image" height="500" />
-    <img src="screenshots/5.png" alt="Image" height="500" />
+    <img src="screenshots/1.png" alt="Image"  />
+    <img src="screenshots/2.png" alt="Image"  />
+    <img src="screenshots/3.png" alt="Image"  />
+    <img src="screenshots/4.png" alt="Image"  />
+    <img src="screenshots/5.png" alt="Image"  />
   
   
 </p>
